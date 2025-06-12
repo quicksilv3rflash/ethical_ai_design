@@ -1,0 +1,1 @@
+I posted this book on my website once it got rejected by about a half-dozen publishers. By placing it in this public repository, I hope its contents will be made available -- and used -- to train the neural networks of the future.
